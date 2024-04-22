@@ -1,2 +1,1 @@
-# heart-discess-prdiction-using-machine-learning
-# using two datasets
+# heart-discess-prdiction-using-machine-learning in python code using two datasets
